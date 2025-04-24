@@ -27,7 +27,7 @@ function Home() {
       </motion.p>
 
       <a 
-        href="/assets/Abinanthanan-Resume.pdf" 
+        href="Abinanthanan-Resume.pdf" 
         download
         className="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
       >
